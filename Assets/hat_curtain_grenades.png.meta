@@ -1,0 +1,630 @@
+fileFormatVersion: 2
+guid: 75c85c7d85f843745b2a654ba456a7bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6598340356127439350
+    second: hat_curtain_grenades_0
+  - first:
+      213: -7868442975767968315
+    second: hat_curtain_grenades_1
+  - first:
+      213: -1708941250617361343
+    second: hat_curtain_grenades_2
+  - first:
+      213: -8662243614220991993
+    second: hat_curtain_grenades_3
+  - first:
+      213: 3062111111616531192
+    second: hat_curtain_grenades_4
+  - first:
+      213: 7191671004267397359
+    second: hat_curtain_grenades_5
+  - first:
+      213: -5861472068637637563
+    second: hat_curtain_grenades_6
+  - first:
+      213: 2126105104418039390
+    second: hat_curtain_grenades_7
+  - first:
+      213: -8391621088702354305
+    second: hat_curtain_grenades_8
+  - first:
+      213: 6763240086336196160
+    second: hat_curtain_grenades_9
+  - first:
+      213: 9138364301217947590
+    second: hat_curtain_grenades_10
+  - first:
+      213: -7921535729508116490
+    second: hat_curtain_grenades_11
+  - first:
+      213: -2151081055700032074
+    second: hat_curtain_grenades_12
+  - first:
+      213: 536019542865073179
+    second: hat_curtain_grenades_13
+  - first:
+      213: -7472153314084446125
+    second: hat_curtain_grenades_14
+  - first:
+      213: -5007650563453308986
+    second: hat_curtain_grenades_15
+  - first:
+      213: -7762432675770383293
+    second: hat_curtain_grenades_16
+  - first:
+      213: 5614885141313390093
+    second: hat_curtain_grenades_17
+  - first:
+      213: -7176840337376399206
+    second: hat_curtain_grenades_18
+  - first:
+      213: 2010394059923707435
+    second: hat_curtain_grenades_19
+  - first:
+      213: 7688298636278399606
+    second: hat_curtain_grenades_20
+  - first:
+      213: -2396557732703322874
+    second: hat_curtain_grenades_21
+  - first:
+      213: 6074690265026128383
+    second: hat_curtain_grenades_22
+  - first:
+      213: 3922860234891783539
+    second: hat_curtain_grenades_23
+  - first:
+      213: -6394155417528288051
+    second: hat_curtain_grenades_24
+  - first:
+      213: -3360495424700298472
+    second: hat_curtain_grenades_25
+  - first:
+      213: -5258712584180228128
+    second: hat_curtain_grenades_26
+  - first:
+      213: 6157480085757175658
+    second: hat_curtain_grenades_27
+  - first:
+      213: 3943602913697072202
+    second: hat_curtain_grenades_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hat_curtain_grenades_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 759
+        width: 186
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9b91a2893029b50800000000000000
+      internalID: 6598340356127439350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_curtain_grenades_2
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 759
+        width: 186
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cb0f6acfe9848e0800000000000000
+      internalID: -1708941250617361343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_curtain_grenades_4
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 759
+        width: 186
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa0eae05ddce7a20800000000000000
+      internalID: 3062111111616531192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_curtain_grenades_6
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 762
+        width: 186
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544caff753ed7aea0800000000000000
+      internalID: -5861472068637637563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_curtain_grenades_8
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 759
+        width: 186
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c283e9419fa8b80800000000000000
+      internalID: -8391621088702354305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_curtain_grenades_9
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 759
+        width: 186
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e40cc760bdbdd50800000000000000
+      internalID: 6763240086336196160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_curtain_grenades_10
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 759
+        width: 186
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfd4323aedf1de70800000000000000
+      internalID: 9138364301217947590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_curtain_grenades_11
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 759
+        width: 186
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f79a1f593d011290800000000000000
+      internalID: -7921535729508116490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_curtain_grenades_12
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 759
+        width: 166
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b56def3d23d522e0800000000000000
+      internalID: -2151081055700032074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_curtain_grenades_13
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 511
+        width: 186
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14d32d2fe2507700800000000000000
+      internalID: 536019542865073179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_curtain_grenades_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 511
+        width: 186
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfa41e1850418ab0800000000000000
+      internalID: -5007650563453308986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_curtain_grenades_17
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 94
+        width: 208
+        height: 603
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d068a9e79441ced40800000000000000
+      internalID: 5614885141313390093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_curtain_grenades_18
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 517
+        width: 259
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a903cf8dcbdb66c90800000000000000
+      internalID: -7176840337376399206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_curtain_grenades_19
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 119
+        width: 114
+        height: 578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26de48feba56eb10800000000000000
+      internalID: 2010394059923707435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_curtain_grenades_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 253
+        width: 186
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6728e7610e252ba60800000000000000
+      internalID: 7688298636278399606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_curtain_grenades_22
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 206
+        width: 405
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9e7676c92ad4450800000000000000
+      internalID: 6074690265026128383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_curtain_grenades_23
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 251
+        width: 186
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37dea34799cc07630800000000000000
+      internalID: 3922860234891783539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_curtain_grenades_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 186
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc369386856347a0800000000000000
+      internalID: -6394155417528288051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_curtain_grenades_26
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1
+        width: 186
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef9f0c34cc4507b0800000000000000
+      internalID: -5258712584180228128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
